@@ -7,14 +7,7 @@
 安装依赖
 
 ```sh
-npm install -g http-server
-```
-
-终端中进入项目路径，开启服务器
-
-```sh
-cd 你的项目路径
-http-server
+npm install
 ```
 
 ## 相关资源
